@@ -1,0 +1,4 @@
+name = "AnalyticSignals"
+uuid = "27cc45ec-db6d-11e9-21ee-4faf3d0d62bd"
+authors = ["BuildTools <alex.lemony@gmail.com>"]
+version = "0.1.0"
